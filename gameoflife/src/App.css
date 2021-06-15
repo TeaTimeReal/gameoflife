@@ -1,0 +1,9 @@
+
+.Rows{
+  font-size: 0; /* Removes Spaces between Rows */
+}
+
+
+.CellDiv{
+  display: inline-block; /* Makes Cells appear next  to each other horizontally instead of vertically */
+};
